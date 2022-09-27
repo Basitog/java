@@ -103,12 +103,12 @@ a{
 }
 
 h1{
-    color: green;
+    color: red;
     text-shadow: 3px 2px black;
 }
 
 .just{
-    background-color: beige;
+    background-color: rgb(194, 183, 183);
     height: 150px;
 }
 
