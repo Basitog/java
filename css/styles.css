@@ -41,7 +41,7 @@ body{
     font-weight: bolder;
     font-style: oblique;
     font-size: 18px;
-    /* border-style: solid; */
+    border-style: solid;
     background-image: url(../img/brown\ back.jpg);
     width: 100%;
     background-repeat: no-repeat;
