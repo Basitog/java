@@ -1,0 +1,121 @@
+body{
+    background-image: url(../img/handb.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.card{
+    border-style: solid 6px;
+    background-color: rgb(228, 224, 224);
+    height: 290px; 
+    margin-top: 90px;
+    box-shadow: 3px 3px black;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.div1{
+    float: right;
+    /* background-color: #008000; */
+    margin-bottom: 93px;
+    position: relative;
+}
+.div2{
+    /* background-color: red; */
+    width: 190px;
+    bottom: -372px;
+    position: absolute;
+}
+
+.div3{
+    position: absolute;
+    bottom: -490px;
+}
+
+#dd{
+    margin-left: 50px;
+    display: none;
+}
+
+#formal{
+    display: none;
+}
+
+#last{
+    display: none;
+    position: absolute;
+    bottom: -600px;
+    margin-left: 1000px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.div4{
+    /* position: absolute; */
+    /* bottom: -640px; */
+    margin-left: 1000px;
+    background-color: blue;
+}
+
+.second{
+    width: 180px;
+    text-align: center;
+    margin-left: 70px;
+    margin-top: 40px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(76, 200, 241);
+    background-color: none;
+    height: 45px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(76, 200, 241);
+}
+
+.first{
+    width: 180px;
+    text-align: center;
+    margin-left: 70px;
+    margin-top: 85px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(76, 200, 241);
+    background-color: none;
+    height: 45px;
+}
+
+.third{
+    width: 180px;
+    text-align: center;
+    margin-left: 70px;
+    margin-top: 40px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(76, 200, 241);
+    background-color: none;
+    height: 45px;
+}
+
+h1{
+    color: red;
+    text-shadow: 3px 2px black;
+}
+
+.just{
+    background-color: beige;
+    height: 150px;
+}
+
+.let{
+    text-align: center;
+    padding-top: 70px;
+    font-size: 40px;
+    font-weight: bolder;
+    text-shadow: 3px 1px red;
+}
