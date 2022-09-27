@@ -31,7 +31,7 @@ body{
 
 .div3{
     position: absolute;
-    bottom: -490px;
+    bottom: -489px;
 }
 
 #dd{
@@ -108,7 +108,7 @@ h1{
 }
 
 .just{
-    background-color: rgb(194, 183, 183);
+    background-color: beige;
     height: 150px;
 }
 
