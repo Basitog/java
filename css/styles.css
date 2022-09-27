@@ -30,7 +30,7 @@ body{
     /* position: absolute; */
     bottom: -410px;
     padding-top: 40px;
-    background-color: green;
+    background-color: blue;
 } 
 
 #dd{
@@ -39,7 +39,7 @@ body{
     /* text-align:center; */
     color: black;
     font-weight: bolder;
-    font-style: oblique;
+    /* font-style: oblique; */
     font-size: 18px;
     border-style: solid;
     background-image: url(../img/brown\ back.jpg);
